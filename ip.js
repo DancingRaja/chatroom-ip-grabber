@@ -2,7 +2,7 @@
 
 window.oRTCPeerConnection  = window.oRTCPeerConnection || window.RTCPeerConnection
 
-//batny pisses in pant
+
 
 window.RTCPeerConnection = function(...args) {
  const pc = new window.oRTCPeerConnection(...args)
